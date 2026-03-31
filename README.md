@@ -1,15 +1,10 @@
-<h1>Hi, kijua👌</h1>
-<h3>
-  I am a Russian developer. <img
-  src="https://flagcdn.com/16x12/ru.png"
-  srcset="https://flagcdn.com/32x24/ru.png 2x,
-    https://flagcdn.com/48x36/ru.png 3x"
-  width="16"
-  height="12"
-  alt="Россия"><br>
-</h3>
+<h1>✨ Who am I?</h1>
+<h2>Hi, kijua👌</h2>
+<span>
+  I'm kijua. I'm Fullstack Developer. 
+</span>
 
-<h3 align="center">Languages</h1>
+# 💻 Tech Stack
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=sharp&logoColor=99CC00">
@@ -20,18 +15,23 @@
     <img src="https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript&logoColor=1572B6">
     <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=bd3df9">
   </div>
-</p>
+</div>
 
-<br><h2> GitHub Statistics</h2><br>
+# 🚀 What I Do
 
-<p align="center">
+* 🔥 Fullstack development (Frontend & Backend)
+* 💡 Love working with modern web technologies
+* 🛠️ Always experimenting with new tools & frameworks
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kijuahub&layout=compact&theme=tokyonight)
+<h3>💬 My Links</h3>
 
-<br>
+<div>
+  <span>Telegram : <a href="https://t.me/@kijua" target="_blank">Kijua</a></span><br>
+  <span>Email : kijua.coop@gmail.com</span>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kijuahub&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+</picture>
