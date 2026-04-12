@@ -1,8 +1,12 @@
-<h1><img src="https://raw.githubusercontent.com/kijuahub/kijuahub/master/wave.gif" width="30">Hi, kijua</h1>
+<h1><img src="https://raw.githubusercontent.com/kijuahub/kijuahub/main/wave.gif" width="30"> Hi, kijua</h1>
 <h2>✨ Who am I?</h2>
 <span>
   I'm kijua. I'm Fullstack Developer. 
 </span>
+
+<h2>🔥 My favorite project</h2>
+
+_1._ **Vex Programming Language - [Repository](https://github.com/kijuahub/vex-programming-language)**
 
 # 💻 Tech Stack
 <div align="center">
