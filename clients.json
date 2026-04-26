@@ -1,12 +1,24 @@
 [
   {
-    "id": "release-1165",
-    "title": "1.16.5",
-    "subtitle": "Обычная версия",
-    "folderName": "1.16.5",
-    "theme": "red",
-    "imageKey": "release",
-    "description": "Хуй. Основная стабильная версия Husc с классической конфигурацией клиента, оптимизированной загрузкой и полной совместимостью с ежедневным использованием.",
-    "downloadUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip"
+    "id": 1,
+    "name": "1.12.2 Forge",
+    "type": "Forge",
+    "status": "MAGIC",
+    "title": "MAGIC",
+    "description": "Сборка с Thaumcraft, Botania и Blood Magic.",
+    "folder": "HuscDLC-1.12.2-Forge",
+    "downloadUrl": "https://github.com/your-org/your-repo/releases/download/v1/client-1.12.2-forge.zip",
+    "exePath": "HuscDLC.exe"
+  },
+  {
+    "id": 2,
+    "name": "1.20.1 Vanilla",
+    "type": "Vanilla",
+    "status": "Стабильная",
+    "title": "VANILLA",
+    "description": "Классический клиент без модов.",
+    "folder": "HuscDLC-1.20.1-Vanilla",
+    "downloadUrl": "https://github.com/your-org/your-repo/releases/download/v1/client-1.20.1-vanilla.zip",
+    "exePath": "HuscDLC.exe"
   }
 ]
