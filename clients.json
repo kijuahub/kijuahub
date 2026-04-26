@@ -4,7 +4,7 @@
     "title": "1.16.5",
     "subtitle": "Обычная версия",
     "folderName": "1.16.5",
-    "theme": "red",
+    "theme": "yellow",
     "imageKey": "release",
     "description": "Хуй. Основная стабильная версия Husc с классической конфигурацией клиента, оптимизированной загрузкой и полной совместимостью с ежедневным использованием.",
     "downloadUrl": "https://your-domain.com/downloads/husc-1.16.5.zip"
