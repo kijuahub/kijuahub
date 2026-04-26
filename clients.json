@@ -1,0 +1,22 @@
+[
+  {
+    "id": "release-1165",
+    "title": "1.16.5",
+    "subtitle": "Обычная версия",
+    "folderName": "1.16.5",
+    "theme": "red",
+    "imageKey": "release",
+    "description": "Хуй. Основная стабильная версия Husc с классической конфигурацией клиента, оптимизированной загрузкой и полной совместимостью с ежедневным использованием.",
+    "downloadUrl": "https://your-domain.com/downloads/husc-1.16.5.zip"
+  },
+  {
+    "id": "alpha-1165",
+    "title": "ALPHA 1.16.5",
+    "subtitle": "Ранний доступ",
+    "folderName": "ALPHA 1.16.5",
+    "theme": "green",
+    "imageKey": "alpha",
+    "description": "Экспериментальная сборка Husc с ранними обновлениями, улучшенной телеметрией запуска и подготовленным стеком модулей для закрытого тестирования.",
+    "downloadUrl": "https://your-domain.com/downloads/husc-alpha-1.16.5.zip"
+  }
+]
