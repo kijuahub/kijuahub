@@ -7,7 +7,7 @@
     "title": "MAGIC",
     "description": "Сборка с Thaumcraft, Botania и Blood Magic.",
     "folder": "HuscDLC-1.12.2-Forge",
-    "downloadUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-large-zip-file.zip",
+    "downloadUrl": "https://getsamplefiles.com/download/zip/sample-2.zip",
     "exePath": "HuscDLC.exe"
   },
   {
@@ -18,7 +18,7 @@
     "title": "VANILLA",
     "description": "Классический клиент без модов.",
     "folder": "HuscDLC-1.20.1-Vanilla",
-    "downloadUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-large-zip-file.zip",
+    "downloadUrl": "https://getsamplefiles.com/download/zip/sample-2.zip",
     "exePath": "HuscDLC.exe"
   }
 ]
