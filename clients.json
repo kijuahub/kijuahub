@@ -7,7 +7,7 @@
     "title": "MAGIC",
     "description": "Сборка с Thaumcraft, Botania и Blood Magic.",
     "folder": "HuscDLC-1.12.2-Forge",
-    "downloadUrl": "https://raw.githubusercontent.com/kijuahub/kijuahub/main/test.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/kijuahub/kijuahub/main/client.zip",
     "exePath": "HuscDLC.exe"
   },
   {
@@ -18,7 +18,7 @@
     "title": "VANILLA",
     "description": "Классический клиент без модов.",
     "folder": "HuscDLC-1.20.1-Vanilla",
-    "downloadUrl": "https://raw.githubusercontent.com/kijuahub/kijuahub/main/test.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/kijuahub/kijuahub/main/client.zip",
     "exePath": "HuscDLC.exe"
   }
 ]
