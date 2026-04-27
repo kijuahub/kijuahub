@@ -7,7 +7,7 @@
     "title": "HuscDLC",
     "description": "Сборка с Thaumcraft, Botania и Blood Magic.",
     "folder": "HuscDLC-1.16.5",
-    "downloadUrl": "https://raw.githubusercontent.com/kijuahub/kijuahub/main/client.zip",
+    "downloadUrl": "• Обновленый DiscordRPC \n• Пофикшены баги и ошибки. \n• Добавлено много тем. \n• Альт-Менаджер работает. \n• Optimizer - Чуть оптимизирует ваш майнкрафт, путём удаления не нужных объектов. \n• Attack Aura - Добавлена ротация под Рилли ворлд и Фанскай, обновлена + ротация Snaps, должна работать на FunTime. • Theme - Добавлена система двух-цветных тем которая имеет множество вариаций градиента, а также полностью адаптирован подо всё.",
     "exePath": "HuscDLC.exe"
   }
 ]
