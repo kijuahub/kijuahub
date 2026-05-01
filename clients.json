@@ -1,13 +1,15 @@
-[
-  {
-    "id": 1,
-    "name": "1.16.5",
-    "type": "Release",
-    "status": "Последния стабильная версия.",
-    "title": "HuscDLC",
-    "description": "Последния стабильная версия клиента. Был улучшен ватермарк и добавлено отображение текущий музыки. Новая функция AutoFish. Новая функция SexAura",
-    "folder": "HuscDLC-1.16.5",
-    "downloadUrl": "https://www.google.com",
-    "exePath": "HuscDLC.exe"
-  }
-]
+{
+  "versions": [
+    {
+      "id": "1.0.0",
+      "name": "HuscDLC v1.0",
+      "description": "Основной релиз",
+      "minecraft_version": "1.20.1",
+      "download_url": "https://github.com/.../client.zip",
+      "icon_url": "https://...",
+      "mods_list": ["OptiFine", "Sodium", "Lithium"],
+      "requirements": "RAM: 4GB, CPU: Intel i5",
+      "changelog": "Первый релиз"
+    }
+  ]
+}
