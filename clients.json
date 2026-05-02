@@ -5,11 +5,11 @@
       "name": "HuscDLC",
       "description": "Последний стабильная версия",
       "minecraft_version": "1.16.5",
-      "download_url": "https://raw.githubusercontent.com/kijuahub/kijuahub/main/test.zip",
+      "download_url": "https://github.com/kijuahub/kijuahub/releases/download/HuscDLCClient/Client.zip",
       "icon_url": "https://huscdlc.xo.je/assets/images/mainscreen3.png",
       "mods_list": ["OptiFine", "Sodium", "Lithium"],
       "requirements": "RAM: 4GB, CPU: Intel i5",
-      "changelog": "Возможность сохранять и загружать конфиги из облака. Улучшенный ватермарк. Добавлен ElytraBooster, AirStuck, GrimGlide, Tracers. Также была добавлена фановая функция SexAura"
+      "changelog": "Возможность сохранять и загружать конфиги из облака. Улучшенный ватермарк. Добавлен AutoLes, AutoAuth, ElytraBooster, AirStuck, GrimGlide, Tracers. Также была добавлена фановая функция SexAura"
     }
   ]
 }
