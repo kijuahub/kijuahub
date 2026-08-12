@@ -1,7 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/kijuahub/kijuahub/main/wave.gif" width="30"> Hi, kijua</h1>
 <h2>✨ Who am I?</h2>
 <span>
-  I'm kijua. I'm Fullstack Developer. 
+  I'm kijua. I'm Developer. 
 </span>
 
 <h2>🔥 My favorite project</h2>
@@ -14,7 +14,7 @@ _1._ **Vex Programming Language - [Repository](https://github.com/kijuahub/vex-p
     <img src="https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=sharp&logoColor=99CC00">
     <img src="https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java">
     <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26">
-    <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c">
+    <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react">
     <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB">
     <img src="https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript&logoColor=1572B6">
     <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=bd3df9">
